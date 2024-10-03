@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1727967800383" clover="3.2.0">
+  <project timestamp="1727967800383" name="All files">
+    <metrics statements="13" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="2" elements="20" coveredelements="18" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1"/>
+    <file name="app.js" path="G:\Program Files (x86)\Matias\UTN\Desarrollo de Software\Repositorios\nodejs-jest-supertest\src\app.js">
+      <metrics statements="13" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="2"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="22" count="5" type="stmt"/>
+      <line num="23" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="25" count="3" type="stmt"/>
+      <line num="26" count="3" type="stmt"/>
+      <line num="27" count="3" type="stmt"/>
+    </file>
+  </project>
+</coverage>
